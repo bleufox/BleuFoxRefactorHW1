@@ -22,4 +22,4 @@ This repo contains the completed refactor CSS and index.html files.
  ![Screenshot](Assets/images/Screenshot.png)
 
 ## Web Address
-[Bleu Fox Git Hub](https://bleufox.github.io/BleuFoxRefactor/)
+[Bleu Fox Git Hub](https://bleufox.github.io/BleuFoxRefactorHW1/)
