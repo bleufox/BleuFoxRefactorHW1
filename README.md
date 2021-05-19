@@ -19,7 +19,7 @@ THEN I find a concise, descriptive title
 This repo contains the completed refactor CSS and index.html files.
 
 ## Screenshot
- ![Screenshot](Develop/assets/images/Screenshot.png)
+ ![Screenshot](Assets/images/Screenshot.png)
 
 ## Web Address
 [Bleu Fox Git Hub](https://bleufox.github.io/BleuFoxRefactor/)
